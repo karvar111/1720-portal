@@ -1,0 +1,17 @@
+/*******************Border box***********************/
+* {
+    box-sizing: border-box;
+}
+
+body {
+      font-family: "Josefin Sans", sans-serif;
+}
+header {
+    padding: 10px 0 10px 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+header span{
+    color: #232323;
+    
+}
